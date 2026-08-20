@@ -1,0 +1,12 @@
+Package: vyatta-policy-action-v1-yang
+Source: vplane-config-qos
+Version: 7.0.2
+Architecture: all
+Maintainer: Vyatta Package Maintainers <DL-vyatta-help@att.com>
+Installed-Size: 21
+Depends: vplane-config-qos, configd-v1-yang, vyatta-npf-v1-yang, vyatta-policy-v1-yang
+Section: contrib/net
+Priority: extra
+Description: Action groups YANG
+ This YANG module provides the action groups configuration for use by
+ NPF components.

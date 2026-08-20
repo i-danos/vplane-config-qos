@@ -1,0 +1,11 @@
+Package: vyatta-vplane-qos-tests
+Source: vplane-config-qos
+Version: 7.0.2
+Architecture: all
+Maintainer: Vyatta Package Maintainers <DL-vyatta-help@att.com>
+Installed-Size: 116
+Depends: vplane-config-qos, python3 (>= 3.6)
+Section: contrib/net
+Priority: extra
+Description: Vplane QoS tests
+ This package contains the vplane-config-qos tests.

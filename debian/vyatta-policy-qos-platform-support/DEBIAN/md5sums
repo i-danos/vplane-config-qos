@@ -1,0 +1,9 @@
+1c62af7e91b2d8c0d6231d7931dcffe9  lib/vyatta-platform/platforms/vyatta-policy-qos.platform
+2d2b0f7b6a28e57b2920090422d11ea9  lib/vyatta-platform/yang/vyatta-policy-qos-deviation-broadcom-j2-v1.yang
+5587c35d83db19f0e9a6a10de67954e7  lib/vyatta-platform/yang/vyatta-policy-qos-deviation-broadcom-qax-v1.yang
+0906f24eaa4c89232a123f3607fd0eb4  lib/vyatta-platform/yang/vyatta-policy-qos-deviation-broadcom-stratadnx-v1.yang
+907aaf958dbee172a11ca316bae28033  lib/vyatta-platform/yang/vyatta-policy-qos-deviation-ufi-s9500-30xs-v1.yang
+e30308cabe8986bb1ac093b3ddc4762c  lib/vyatta-platform/yang/vyatta-policy-qos-deviation-ufi-s9700-53dx-v1.yang
+65fa4460705fc7e98ed9b5a5bb391fd4  lib/vyatta-platform/yang/vyatta-policy-qos-deviation-unsup-sw-platform-v1.yang
+99fb2ebc5d8b343c8259903b4593ee83  usr/share/doc/vyatta-policy-qos-platform-support/changelog.gz
+dde13c80ad267f953c62e2a7d7c3ecdc  usr/share/doc/vyatta-policy-qos-platform-support/copyright

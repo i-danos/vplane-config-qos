@@ -1,0 +1,11 @@
+Package: vyatta-policy-filter
+Source: vplane-config-qos
+Version: 7.0.2
+Architecture: amd64
+Maintainer: Vyatta Package Maintainers <DL-vyatta-help@att.com>
+Installed-Size: 60
+Depends: python3 (>= 3.6), python3-vci, python3-systemd, deb-vci-helper, vyatta-policy-filter-classification-v1-yang, vyatta-resources-gpc, vyatta-dataplane-cfg-pb-vyatta:gpc-config-0
+Section: contrib/net
+Priority: extra
+Description: QoS Filter Classification VCI component
+ VCI component for QoS Filter Classification using the Generic Packet Classifier

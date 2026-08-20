@@ -1,0 +1,4 @@
+195c5f42a9372d2004527d21e7304714  opt/vyatta/share/vyatta-op/functions/tech-support.d/2500-vyatta-qos
+9b5c220275c364d946708f1b4a99f8a5  usr/share/configd/yang/vyatta-op-policy-qos-v1.yang
+99fb2ebc5d8b343c8259903b4593ee83  usr/share/doc/vyatta-op-policy-qos-v1-yang/changelog.gz
+dde13c80ad267f953c62e2a7d7c3ecdc  usr/share/doc/vyatta-op-policy-qos-v1-yang/copyright

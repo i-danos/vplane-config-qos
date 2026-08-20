@@ -1,0 +1,12 @@
+Package: vyatta-policy-qos-v1-yang
+Source: vplane-config-qos
+Version: 7.0.2
+Architecture: all
+Maintainer: Vyatta Package Maintainers <DL-vyatta-help@att.com>
+Installed-Size: 42
+Depends: vplane-config-qos, vyatta-interfaces-v1-yang, vyatta-interfaces-dataplane-v1-yang, vyatta-policy-v1-yang, vyatta-policy-qos-groupings-v1-yang, vyatta-interfaces-policy-v1-yang, configd-v1-yang, vyatta-interfaces-dataplane-switch-v1-yang, vyatta-interfaces-switch-v1-yang, vyatta-interfaces-switch-policy-v1-yang, vyatta-resources-v1-yang, vyatta-resources-group-v1-yang, vyatta-interfaces-switch-vif-policy-v1-yang, vyatta-interfaces-bonding-v1-yang, vyatta-interfaces-bonding-switch-v1-yang
+Section: contrib/net
+Priority: extra
+Description: Dataplane QoS YANG
+ This YANG module provides the quality of service configuration for
+ dataplane interfaces.
