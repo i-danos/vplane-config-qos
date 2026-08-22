@@ -1,9 +1,0 @@
-899a126b7bc7b95c812e8ad54e50ac42  lib/vci/components/vyatta-policy-filter.component
-f30b9b366a23f701f504ff322a229282  opt/vyatta/bin/show_gpc_rpc.py
-1d3448005fbda62f83be85972ca02dfd  opt/vyatta/sbin/vyatta_policy_filter.py
-01ba8806637a1243f5e25949e221308d  usr/lib/python3/dist-packages/vyatta_policy_filter_vci/filter_action.py
-00a2faf688bda1fb99fc91d0aa13ea4f  usr/lib/python3/dist-packages/vyatta_policy_filter_vci/filter_config.py
-530b0a53b9c74115bd16cd6743903c4d  usr/lib/python3/dist-packages/vyatta_policy_filter_vci/filter_group.py
-391af13329d4ee4d03c1a93e49e560f0  usr/lib/python3/dist-packages/vyatta_policy_filter_vci/filter_rpc.py
-99fb2ebc5d8b343c8259903b4593ee83  usr/share/doc/vyatta-policy-filter/changelog.gz
-dde13c80ad267f953c62e2a7d7c3ecdc  usr/share/doc/vyatta-policy-filter/copyright
