@@ -1,0 +1,17 @@
+/tmp/
+/.debhelper/
+/files
+/*.substvars
+/*.debhelper.log
+/debhelper-build-stamp
+/autoreconf.*
+/vplane-config-qos/
+/vyatta-policy-action-v1-yang/
+/vyatta-policy-qos-groupings-v1-yang/
+/vyatta-policy-qos-v1-yang/
+/vyatta-policy-qos-platform-support/
+/vyatta-op-policy-qos-v1-yang/
+/vyatta-policy-filter-classification-v1-yang/
+/vyatta-vplane-qos-tests/
+/vyatta-policy-qos-vci/
+/vyatta-policy-filter/
