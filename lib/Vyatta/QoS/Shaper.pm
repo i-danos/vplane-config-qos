@@ -16,7 +16,7 @@ use List::Util qw(first);
 
 use Vyatta::Config;
 use Vyatta::FWHelper qw(validate_npf_rule);
-use Vyatta::QoS::Profile qw(valid_binding);
+use Vyatta::QoS::Profile;
 use Vyatta::QoS::Red qw(DEF_QSIZE_PACKETS DEF_QSIZE_BYTES);
 use Vyatta::QoS::Class;
 use Vyatta::QoS::Subport;
